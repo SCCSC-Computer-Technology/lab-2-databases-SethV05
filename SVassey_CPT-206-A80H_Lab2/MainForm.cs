@@ -20,7 +20,7 @@ namespace SVassey_CPT_206_A80H_Lab2
         {
             InitializeComponent();
         }
-//Good job organizing the database structure, the tables are well-defined. The code is clean and easy to follow. I'm going to use some of this code propbaby lol.
+
         private void cityBindingNavigatorSaveItem_Click(object sender, EventArgs e)
         {
             this.Validate();
@@ -89,4 +89,3 @@ namespace SVassey_CPT_206_A80H_Lab2
         }
     }
 }
-
